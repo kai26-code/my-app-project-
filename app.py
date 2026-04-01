@@ -10,8 +10,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-col_title , col_logo = st.columns([3, 1])
 
-with col_title:
-    st.title("📚 Productivity App For Accountants & Students")
+st.title("📚 Productivity App For Accountants & Students")
 
