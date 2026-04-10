@@ -12,10 +12,10 @@ This code creates a application called the Time Budget Planner that helps users 
 ## Intended Users
 This app is intended for both students and professionals who want to manage their time more effectively. For students, it helps track study hours, plan assignments, and optimize productivity. For accounting and finance professionals, the app can be used to allocate work hours across tasks, analyze efficiency, and make informed decisions similar to how financial budgets are monitored and evaluated. Essentially, it is designed for anyone who wants to treat their time as a valuable resource and make data-driven decisions to improve performance.
  
-## Planned Features
-Current Features in app:
+## Current Features in app:
 1. Daily time tracking
-Features still needed
-3. Goal comparison & variance analysis
-4. Visualizations 
+   
+## Features still needed
+2. Goal comparison & variance analysis
+3. Visualizations 
  
